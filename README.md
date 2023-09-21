@@ -1,3 +1,3 @@
 # CNN
 
-i learned how to use convolutional neural networks --> 98.35% accuracy in the MNIST dataset
+i learned how to use convolutional neural networks and applied it to the MNIST dataset --> reached 98.6% accuracy
